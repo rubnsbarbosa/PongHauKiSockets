@@ -22,3 +22,7 @@ Protocolo de Comunicação (0-10) Implementação de Funcionalidades (0-10)
 Trabalho Individual  
 **Data de Entrega:** 22/08 (nota cheia) Entrega até 27/08 (-2 pontos)  
 Depois disso o trabalho será desconsiderado.  
+
+### Client View
+![captura de tela 2018-09-15 as 14 58 01](https://user-images.githubusercontent.com/17646546/45589190-0e881680-b8f8-11e8-9cf1-2b5877eddc70.png)
+
